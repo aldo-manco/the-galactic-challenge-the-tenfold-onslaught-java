@@ -1,0 +1,13 @@
+org.aldomanco.display
+org.aldomanco.enemy_bullets
+org.aldomanco.enemy_types
+org.aldomanco.explosion
+org.aldomanco.game_screen
+org.aldomanco.handler
+org.aldomanco.levels
+org.aldomanco.menu_screen
+org.aldomanco.player_bullets
+org.aldomanco.sound
+org.aldomanco.sprite
+org.aldomanco.state
+org.aldomanco.timer
